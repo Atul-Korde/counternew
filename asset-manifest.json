@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/counternew/static/js/main.03d9b0c2.js",
+    "static/js/787.e458d2a5.chunk.js": "/counternew/static/js/787.e458d2a5.chunk.js",
+    "index.html": "/counternew/index.html",
+    "main.03d9b0c2.js.map": "/counternew/static/js/main.03d9b0c2.js.map",
+    "787.e458d2a5.chunk.js.map": "/counternew/static/js/787.e458d2a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.03d9b0c2.js"
+  ]
+}
